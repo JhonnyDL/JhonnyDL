@@ -2,9 +2,9 @@
 
 # 👋 Hi, I'm Jhonny D Lopez
 
-### 🚀 Full-Stack Developer | Systems Engineering Student | AI & Automation Enthusiast
+### 🚀 Full-Stack Developer Crafting Intelligent Digital Solutions
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=Building+Technology+That+Creates+Impact;Full-Stack+Developer;AI+%26+Automation+Enthusiast;Odoo+Developer;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=Building+Modern+Digital+Experiences;AI+%26+Automation+Enthusiast;Full-Stack+Developer;Always+Learning+New+Technologies;Creating+Impact+Through+Technology" />
 
 </div>
 
@@ -14,23 +14,19 @@
 
 💻 Passionate about building scalable and impactful digital solutions.
 
-🧠 Focused on **Full-Stack Development**, **AI Automation**, and **System Integrations**.
+🧠 Focused on creating intelligent systems, seamless user experiences, and modern web applications.
 
-⚡ Currently working with:
-- Odoo ERP
-- WhatsApp Automation
-- AI Workflows
-- API Integrations
-- Modern Web Technologies
-
-🌱 Constantly learning and improving my skills in:
+⚡ Interested in:
 - Artificial Intelligence
-- Machine Learning
+- Automation
 - Backend Architectures
-- Cloud Infrastructure
+- Modern Frontend Development
+- Cloud & Scalable Technologies
+
+🌱 Constantly learning new technologies and improving my development skills.
 
 🎯 Goal:
-Create innovative systems that improve businesses and automate processes efficiently.
+Build innovative technology that solves real-world problems and creates meaningful impact.
 
 ---
 
