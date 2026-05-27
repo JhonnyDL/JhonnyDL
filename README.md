@@ -4,11 +4,11 @@
 
 ### 🚀 Full-Stack Developer Crafting Intelligent Digital Solutions
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=Building+Modern+Digital+Experiences;AI+%26+Automation+Enthusiast;Full-Stack+Developer;Always+Learning+New+Technologies;Creating+Impact+Through+Technology" />
-
+<img 
+  src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=34&duration=1800&pause=600&color=00FF88&center=true&vCenter=true&width=1000&lines=Building+Modern+Digital+Experiences;AI+%26+Automation+Enthusiast;Full-Stack+Developer;Always+Learning+New+Technologies;Creating+Impact+Through+Technology" 
+  alt="Typing SVG" 
+/>
 </div>
-
----
 
 # 💫 About Me
 
@@ -28,51 +28,19 @@
 🎯 Goal:
 Build innovative technology that solves real-world problems and creates meaningful impact.
 
----
-
 # 🚀 Tech Stack
-
-## 👨‍💻 Languages
 
 <p align="left">
 <img src="https://skillicons.dev/icons?i=js,ts,python,java,php" />
 </p>
 
-## ⚙️ Frameworks & Technologies
-
 <p align="left">
 <img src="https://skillicons.dev/icons?i=nodejs,react,nextjs,express,tailwind,docker" />
 </p>
-
-## 🗄️ Databases & Tools
-
 <p align="left">
 <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,git,github,vscode" />
 </p>
 
----
-
-# 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=JhonnyDL&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhonnyDL&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-# 🔥 Contribution Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=JhonnyDL&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
 
 # 🌐 Connect With Me
 
