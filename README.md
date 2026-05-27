@@ -1,16 +1,113 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**JhonnyDL/JhonnyDL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Jhonny D Lopez
 
-Here are some ideas to get you started:
+### 🚀 Full-Stack Developer | Systems Engineering Student | AI & Automation Enthusiast
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=Building+Technology+That+Creates+Impact;Full-Stack+Developer;AI+%26+Automation+Enthusiast;Odoo+Developer;Always+Learning+New+Technologies" />
+
+</div>
+
+---
+
+# 💫 About Me
+
+💻 Passionate about building scalable and impactful digital solutions.
+
+🧠 Focused on **Full-Stack Development**, **AI Automation**, and **System Integrations**.
+
+⚡ Currently working with:
+- Odoo ERP
+- WhatsApp Automation
+- AI Workflows
+- API Integrations
+- Modern Web Technologies
+
+🌱 Constantly learning and improving my skills in:
+- Artificial Intelligence
+- Machine Learning
+- Backend Architectures
+- Cloud Infrastructure
+
+🎯 Goal:
+Create innovative systems that improve businesses and automate processes efficiently.
+
+---
+
+# 🚀 Tech Stack
+
+## 👨‍💻 Languages
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=js,ts,python,java,php" />
+</p>
+
+## ⚙️ Frameworks & Technologies
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=nodejs,react,nextjs,express,tailwind,docker" />
+</p>
+
+## 🗄️ Databases & Tools
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,git,github,vscode" />
+</p>
+
+---
+
+# 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=JhonnyDL&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhonnyDL&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+# 🔥 Contribution Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=JhonnyDL&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="left">
+
+<a href="https://github.com/JhonnyDL">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/jhonny-delgadillo-lopez-b50930181/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:jhonnydelgadillo003@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# ⚡ Quote
+
+> “Technology is best when it brings people and ideas together.”
+
+---
+
+<div align="center">
+
+### 👀 Profile Views
+
+![](https://komarev.com/ghpvc/?username=JhonnyDL&color=blueviolet&style=for-the-badge)
+
+</div>
